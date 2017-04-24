@@ -29,7 +29,7 @@ Let me make your job easier:
 - Pivotal
 - Blogposts
   - [Sprint Planning Tips](blog/sprint_planning_tips.md)
-  - [Estimation Guideline](blog/estimation_guidelines.md)
+  - [Estimation Guideline](blog/estimation_guideline.md)
 
 #### Entrepreneur
 
