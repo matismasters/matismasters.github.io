@@ -9,7 +9,9 @@ Let me make your job easier:
 - Ruby
   - testing
   - testing
-  - testing
+  - [Sinatra's handbook](https://github.com/matismasters/sinatras_handbook)
+  2014 simple wiki-like sinatra app for personal stuff
+
 - Rails
   - testing
   - testing
