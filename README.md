@@ -28,6 +28,8 @@ Let me make your job easier:
 - Trello
 - Pivotal
 - Blogposts
+  - [Sprint Planning Tips](blog/sprint_planning_tips.md)
+  - [Estimation Guideline](blog/estimation_guidelines.md)
 
 #### Entrepreneur
 
