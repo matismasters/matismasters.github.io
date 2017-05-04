@@ -7,8 +7,8 @@ Let me make your job easier:
 #### Coding
 
 - Ruby
-  - testing
-  - testing
+  - [LatLong Gem](https://github.com/matismasters/latlong)
+  2017 (WIP) gem for moving lat long points based on distance and direction
   - [Sinatra's handbook](https://github.com/matismasters/sinatras_handbook)
   2014 simple wiki-like sinatra app for personal stuff
 
