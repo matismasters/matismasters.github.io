@@ -6,25 +6,15 @@ Let me make your job easier:
 
 #### Coding
 
-- Ruby
-  - [LatLong Gem](https://github.com/matismasters/lat_long)
-  2017 (WIP) gem for moving lat long points based on distance and direction
-  - [Sinatra's handbook](https://github.com/matismasters/sinatras_handbook)
-  2014 simple wiki-like sinatra app for personal stuff
-
-- Rails
-  - Coming soon, too much covered by NDAs...
-- Javascript
-  - Coming soon, too much covered by NDAs...
-- CSS
-  - Coming soon, too much covered by NDAs...
+- [LatLong Gem](https://github.com/matismasters/lat_long)
+2017 (WIP) gem for moving lat long points based on distance and direction
+- [Sinatra's handbook](https://github.com/matismasters/sinatras_handbook)
+2014 simple wiki-like sinatra app for personal stuff
 
 #### Management
 
 - Trello
-  - Coming soon, too much covered by NDAs...
 - Pivotal
-  - Coming soon, too much covered by NDAs...
 - Blogposts
   - [Sprint Planning Tips](blog/sprint_planning_tips.md)
   - [Estimation Guideline](blog/estimation_guideline.md)
@@ -33,11 +23,8 @@ Let me make your job easier:
 
 - Mr.Wattson
   - Consumption Monitor
-    - Coming soon, too much covered by NDAs...
   - Generation Monitor
-    - Coming soon, too much covered by NDAs...
   - Mobile Apps
-    - Coming soon, too much covered by NDAs...
 
 #### Details
 
