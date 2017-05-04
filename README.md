@@ -13,22 +13,18 @@ Let me make your job easier:
   2014 simple wiki-like sinatra app for personal stuff
 
 - Rails
-  - testing
-  - testing
-  - testing
+  - Coming soon, too much covered by NDAs...
 - Javascript
-  - testing
-  - testing
-  - testing
+  - Coming soon, too much covered by NDAs...
 - CSS
-  - testing
-  - testing
-  - testing
+  - Coming soon, too much covered by NDAs...
 
 #### Management
 
 - Trello
+  - Coming soon, too much covered by NDAs...
 - Pivotal
+  - Coming soon, too much covered by NDAs...
 - Blogposts
   - [Sprint Planning Tips](blog/sprint_planning_tips.md)
   - [Estimation Guideline](blog/estimation_guideline.md)
@@ -37,8 +33,11 @@ Let me make your job easier:
 
 - Mr.Wattson
   - Consumption Monitor
+    - Coming soon, too much covered by NDAs...
   - Generation Monitor
+    - Coming soon, too much covered by NDAs...
   - Mobile Apps
+    - Coming soon, too much covered by NDAs...
 
 #### Details
 
