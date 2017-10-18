@@ -10,6 +10,8 @@ Let me make your job easier:
 2017 (WIP) gem for moving lat long points based on distance and direction
 - [Sinatra's handbook](https://github.com/matismasters/sinatras_handbook)
 2014 simple wiki-like sinatra app for personal stuff
+- [ScrollTrack](https://github.com/matismasters/scroll-track)
+2017 (WIP) JS library for adding event listeners to scroll tracking on web
 
 #### Management
 
