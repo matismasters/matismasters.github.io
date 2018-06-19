@@ -6,12 +6,16 @@ Let me make your job easier:
 
 #### Coding
 
+- [Multiselect-Tree](https://github.com/matismasters/riotjs-multiselect-tree)
+2018 (WIP) Riot.js component for showing a list-tree
+- [Multiselect-Columns](https://github.com/matismasters/riotjs-multiselect-columns)
+2018 (WIP) Riot.js component for showing a list in responsive columns
+- [ScrollTrack](https://github.com/matismasters/scroll-track)
+2017 (WIP) JS library for adding event listeners to scroll tracking on web
 - [LatLong Gem](https://github.com/matismasters/lat_long)
 2017 (WIP) gem for moving lat long points based on distance and direction
 - [Sinatra's handbook](https://github.com/matismasters/sinatras_handbook)
 2014 simple wiki-like sinatra app for personal stuff
-- [ScrollTrack](https://github.com/matismasters/scroll-track)
-2017 (WIP) JS library for adding event listeners to scroll tracking on web
 
 #### Management
 
