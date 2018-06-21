@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,400i|IBM+Plex+Sans+Condensed:400,400i|IBM+Plex+Sans:100,100i,400,400i,700,700i|IBM+Plex+Serif:400,400i');
+
+body {
+  font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "IBM Plex Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  border-bottom: 1px solid lightgray;
+  margin-top: 3em;
+}
+
+.avatar {
+  width: 80%;
+  max-width: 200px;
+  margin: 0 auto 25px auto;
+  border: 0.3em solid white;
+}
+
+p img {
+  border-top: 20px solid white;
+  max-width: 144px !important;
+  float: left;
+  margin: 0 10px 0 0;
+  border-radius: 21px;
+  padding: 0px 10px 10px 10px;
+
+  &[alt='mrwattson-logo'] {
+    float: right;
+  }
+}
