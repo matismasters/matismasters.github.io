@@ -10,6 +10,8 @@ Let me make your job easier:
 2018 (WIP) Riot.js component for showing a list-tree
 - [Multiselect-Columns](https://github.com/matismasters/riotjs-multiselect-columns)
 2018 (WIP) Riot.js component for showing a list in responsive columns
+- [Mr.Wattson](https://github.com/matismasters/mrwattson-api-public)
+2017 (WIP) Rails API for IoT energy monitor personal project
 - [ScrollTrack](https://github.com/matismasters/scroll-track)
 2017 (WIP) JS library for adding event listeners to scroll tracking on web
 - [LatLong Gem](https://github.com/matismasters/lat_long)
@@ -25,12 +27,11 @@ Let me make your job easier:
   - [Sprint Planning Tips](blog/sprint_planning_tips.md)
   - [Estimation Guideline](blog/estimation_guideline.md)
 
-#### Entrepreneur
+#### Personal projects
 
-- Mr.Wattson
-  - Consumption Monitor
-  - Generation Monitor
-  - Mobile Apps
+[Mr.Wattson](https://github.com/matismasters/mrwattson-api-public) is a personal
+IoT project to which I devoted a significant amount of time. It's a Rails API,
+but you can check the README and see how everything worked.
 
 #### Details
 
