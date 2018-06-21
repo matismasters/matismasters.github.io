@@ -6,43 +6,43 @@ Let me make your job easier:
 
 ## What do my bosses say about me?
 
-**Ben Lee** _Inc. 30 Under 30 | Featured in Forbes, NPR, AdWeek_
+#### Ben Lee  _Inc. 30 Under 30, Featured in Forbes, NPR, AdWeek_
 
 I've had the pleasure of working with Matis for several years. Outside of being a programmer, he's an exceptional thinker. He has the capacity to be a leader, an architect, and an implementer. Give him a problem and he can solve it. Matis bears the qualities to be an exceptional asset to any team or project. He is a true business-minded engineer which is extremely hard to come by these days.
 
-**Rossina Simonelli** _Co-founder at Crafted Code_
+#### Rossina Simonelli  _Co-founder at Crafted Code_
 
 Matis is the perfect mix of a senior full stack developer and a client principal. He’s got exceptional communication skills and a strong CS background. He is always willing to help clients figuring out what they really need in order to achieve their business goals. I really enjoyed working with Matis, he is an excellent team player!
 
 ## What do clients say about me?
 
-**Sam McAfee** _Business model innovator | Author of Startup Patterns_
+#### Sam McAfee  _Business model innovator, Author of Startup Patterns_
 
 Working with Matis was great! He's a smart and capable leader, able to cut through the complexity to the essence of a problem, while respecting the nuances of context. He is keenly focused on delivering value, and can apply a range of methodologies without getting bogged down in the dogma of any single approach. I'd highly recommend him for any digital product endeavor.
 
-**Alex Moroch** _Founder and CEO at FEM Marketing_
+#### Alex Moroch  _Founder and CEO at FEM Marketing_
 
 We worked with Matis and the team at Crafted Code for a hybrid mobile application development project. From the beginning, the team was organized and accommodating to the time difference and set up a very efficient project management and tracking system for our executive team. Crafted is an agile and smart group of folks to work with for any application MVP project or development. We are looking forward to the continued partnership -
 
 ## What do my colleagues say about me?
 
-**Oscar Siniscalchi** _Director Of Engineering at Rootstrap_
+#### Oscar Siniscalchi  _Director Of Engineering at Rootstrap_
 
 I've worked with Matis for +4 years and he is a very smart and dedicated developer who loves to write good code. He combines an excellent technical background with a very good business understanding that helps him take good decisions when building products.
 
-**Daniel Gomez de Souza** _Ruby Developer at WyeWorks_
+#### Daniel Gomez de Souza  _Ruby Developer at WyeWorks_
 
 I had the pleasure of working with Matis for one of our projects and he quickly demonstrated to be a smart and dedicated full stack developer. He adapted easily to what was needed and performed really great at communicating with the clients. He's also a great team player so I would definitely choose him again to work together in the future.
 
-**Marcelo Ramos** _Senior Django/Python/Javascript Developer_
+#### Marcelo Ramos  _Senior Django/Python/Javascript Developer_
 
 I’ve worked with Matis in several projects. He is a pragmatic developer, capable of adopting anything that proves useful and leaving behind anything that proves doesn’t. His is a seasoned Rails developer and has transitioned into becoming a great Product Manager. I would recommend him with any project that requires the very best in management execution. His leadership and organizational skills have been invaluable to the company. I would have no doubt in working with Matis once again in the future.
 
-**Agustín Cornú Mazzei** _Software Engineer at Hint Health
+#### Agustín Cornú Mazzei  _Software Engineer at Hint Health_
 
 Matis is an amazing Product Manager. His deep engineering background, and his entrepreneurship and communication skills, are something you notice at your first talk. He made sure the projects were well organized and time framed, which made the clients really happy. He also is a great Scrum Master and helped with the company processes.
 
-**Matías Nieves** _Software Engineer at Hint Health_
+#### Matías Nieves  _Software Engineer at Hint Health_
 
 I’ve worked alongside with Matis as Full Stack developers, and also had him as a Principal in another projects. He has great communication and coding skills, and actively participates in improving the development process and working methodologies.
 
