@@ -56,11 +56,6 @@ I've worked with Matis for +4 years and he is a very smart and dedicated develop
 
 I had the pleasure of working with Matis for one of our projects and he quickly demonstrated to be a smart and dedicated full stack developer. He adapted easily to what was needed and performed really great at communicating with the clients. He's also a great team player so I would definitely choose him again to work together in the future.
 
-![Marcelo Ramos](https://s3-us-west-2.amazonaws.com/matisio/site/marce-head.jpeg)
-#### Marcelo Ramos  _Senior Django/Python/Javascript Developer_
-
-I’ve worked with Matis in several projects. He is a pragmatic developer, capable of adopting anything that proves useful and leaving behind anything that proves doesn’t. His is a seasoned Rails developer and has transitioned into becoming a great Product Manager. I would recommend him with any project that requires the very best in management execution. His leadership and organizational skills have been invaluable to the company. I would have no doubt in working with Matis once again in the future.
-
 ![Agustín Cornú](https://s3-us-west-2.amazonaws.com/matisio/site/agustin-head.jpeg)
 #### Agustín Cornú Mazzei  _Software Engineer at Hint Health_
 
