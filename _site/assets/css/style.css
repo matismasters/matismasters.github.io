@@ -328,7 +328,7 @@ h2.project-tagline { border-bottom: none; margin-top: auto; }
 
 .avatar { width: 80%; max-width: 200px; margin: 0 auto 25px auto; border: 0.3em solid white; }
 
-p img { border-top: 20px solid white; max-width: 144px !important; float: left; margin: 0 10px 0 0; border-radius: 21px; padding: 0px 10px 10px 10px; }
+p img { border-top: 20px solid white; max-width: 125px !important; float: left; margin: 0 10px 0 0; border-radius: 21px; padding: 0px 10px 10px 10px; }
 p img[alt='mrwattson-logo'] { float: right; }
 
 .main-content { padding: 2rem 1rem; font-size: 0.95rem; }
