@@ -324,6 +324,7 @@ body { font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-se
 h1, h2, h3, h4, h5, h6 { font-family: "IBM Plex Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 h2 { border-bottom: 1px solid lightgray; margin-top: 3em; }
+h2.project-tagline { border-bottom: none; margin-top: auto; }
 
 .avatar { width: 80%; max-width: 200px; margin: 0 auto 25px auto; border: 0.3em solid white; }
 
